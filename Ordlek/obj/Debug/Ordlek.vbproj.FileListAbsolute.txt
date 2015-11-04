@@ -1,1 +1,12 @@
 c:\users\sj039\documents\visual studio 2013\Projects\Ordlek\Ordlek\bin\Debug\Ordlek.exe.config
+C:\Users\Soren\Documents\GitHub\Ordlek\Ordlek\bin\Debug\Ordlek.exe.config
+C:\Users\Soren\Documents\GitHub\Ordlek\Ordlek\bin\Debug\Ordlek.exe
+C:\Users\Soren\Documents\GitHub\Ordlek\Ordlek\bin\Debug\Ordlek.pdb
+C:\Users\Soren\Documents\GitHub\Ordlek\Ordlek\bin\Debug\Ordlek.xml
+C:\Users\Soren\Documents\GitHub\Ordlek\Ordlek\obj\Debug\Ordlek.vbprojResolveAssemblyReference.cache
+C:\Users\Soren\Documents\GitHub\Ordlek\Ordlek\obj\Debug\Ordlek.formMain.resources
+C:\Users\Soren\Documents\GitHub\Ordlek\Ordlek\obj\Debug\Ordlek.Resources.resources
+C:\Users\Soren\Documents\GitHub\Ordlek\Ordlek\obj\Debug\Ordlek.vbproj.GenerateResource.Cache
+C:\Users\Soren\Documents\GitHub\Ordlek\Ordlek\obj\Debug\Ordlek.exe
+C:\Users\Soren\Documents\GitHub\Ordlek\Ordlek\obj\Debug\Ordlek.xml
+C:\Users\Soren\Documents\GitHub\Ordlek\Ordlek\obj\Debug\Ordlek.pdb

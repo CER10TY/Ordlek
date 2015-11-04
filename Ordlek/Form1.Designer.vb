@@ -48,15 +48,15 @@ Partial Class formMain
         'lblOrd
         '
         Me.lblOrd.AutoSize = True
-        Me.lblOrd.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle
         Me.lblOrd.Location = New System.Drawing.Point(13, 13)
         Me.lblOrd.Name = "lblOrd"
-        Me.lblOrd.Size = New System.Drawing.Size(2, 15)
+        Me.lblOrd.Size = New System.Drawing.Size(0, 13)
         Me.lblOrd.TabIndex = 1
         Me.lblOrd.TextAlign = System.Drawing.ContentAlignment.TopCenter
         '
         'btnHoppa
         '
+        Me.btnHoppa.Enabled = False
         Me.btnHoppa.Location = New System.Drawing.Point(16, 58)
         Me.btnHoppa.Name = "btnHoppa"
         Me.btnHoppa.Size = New System.Drawing.Size(97, 40)
@@ -66,6 +66,7 @@ Partial Class formMain
         '
         'btnKontroll
         '
+        Me.btnKontroll.Enabled = False
         Me.btnKontroll.Location = New System.Drawing.Point(16, 105)
         Me.btnKontroll.Name = "btnKontroll"
         Me.btnKontroll.Size = New System.Drawing.Size(97, 23)
@@ -76,8 +77,8 @@ Partial Class formMain
         'lblInfo1
         '
         Me.lblInfo1.AutoSize = True
-        Me.lblInfo1.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle
-        Me.lblInfo1.Location = New System.Drawing.Point(138, 13)
+        Me.lblInfo1.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D
+        Me.lblInfo1.Location = New System.Drawing.Point(149, 13)
         Me.lblInfo1.Name = "lblInfo1"
         Me.lblInfo1.Size = New System.Drawing.Size(40, 15)
         Me.lblInfo1.TabIndex = 4
@@ -87,8 +88,8 @@ Partial Class formMain
         'lblPoang
         '
         Me.lblPoang.AutoSize = True
-        Me.lblPoang.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle
-        Me.lblPoang.Location = New System.Drawing.Point(150, 27)
+        Me.lblPoang.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D
+        Me.lblPoang.Location = New System.Drawing.Point(149, 32)
         Me.lblPoang.Name = "lblPoang"
         Me.lblPoang.Size = New System.Drawing.Size(15, 15)
         Me.lblPoang.TabIndex = 5
@@ -98,8 +99,8 @@ Partial Class formMain
         'lblInfo2
         '
         Me.lblInfo2.AutoSize = True
-        Me.lblInfo2.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle
-        Me.lblInfo2.Location = New System.Drawing.Point(217, 13)
+        Me.lblInfo2.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D
+        Me.lblInfo2.Location = New System.Drawing.Point(220, 13)
         Me.lblInfo2.Name = "lblInfo2"
         Me.lblInfo2.Size = New System.Drawing.Size(24, 15)
         Me.lblInfo2.TabIndex = 6
@@ -109,8 +110,8 @@ Partial Class formMain
         'lblTid
         '
         Me.lblTid.AutoSize = True
-        Me.lblTid.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle
-        Me.lblTid.Location = New System.Drawing.Point(222, 27)
+        Me.lblTid.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D
+        Me.lblTid.Location = New System.Drawing.Point(220, 32)
         Me.lblTid.Name = "lblTid"
         Me.lblTid.Size = New System.Drawing.Size(15, 15)
         Me.lblTid.TabIndex = 7
@@ -120,8 +121,8 @@ Partial Class formMain
         'lblInfo3
         '
         Me.lblInfo3.AutoSize = True
-        Me.lblInfo3.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle
-        Me.lblInfo3.Location = New System.Drawing.Point(127, 66)
+        Me.lblInfo3.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D
+        Me.lblInfo3.Location = New System.Drawing.Point(124, 58)
         Me.lblInfo3.Name = "lblInfo3"
         Me.lblInfo3.Size = New System.Drawing.Size(65, 15)
         Me.lblInfo3.TabIndex = 8
@@ -130,8 +131,8 @@ Partial Class formMain
         'lblGrans
         '
         Me.lblGrans.AutoSize = True
-        Me.lblGrans.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle
-        Me.lblGrans.Location = New System.Drawing.Point(149, 80)
+        Me.lblGrans.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D
+        Me.lblGrans.Location = New System.Drawing.Point(149, 83)
         Me.lblGrans.Name = "lblGrans"
         Me.lblGrans.Size = New System.Drawing.Size(21, 15)
         Me.lblGrans.TabIndex = 9
